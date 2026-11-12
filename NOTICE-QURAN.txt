@@ -1,5 +1,0 @@
-Quran text source
-
-The app requests the explicit quran-simple edition through AlQuran Cloud. The application checks the returned edition identifier, surah number, expected ayah count, array length, and sequential ayah numbering before displaying and caching the surah. First-time surah loading requires internet; successfully checked surahs are cached locally.
-
-Source project: Tanzil (https://tanzil.net). Consult the source project terms and attribution requirements before redistributing Quran text or derived packages.
